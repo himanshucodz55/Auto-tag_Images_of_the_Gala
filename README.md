@@ -1,4 +1,4 @@
-#Deep Learning—Auto-tag Images of the Gala
+# Deep Learning—Auto-tag Images of the Gala
 
 Catagorical Image recognition using deep learning models:
 

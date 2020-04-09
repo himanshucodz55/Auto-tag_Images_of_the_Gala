@@ -1,6 +1,6 @@
 # Deep Learning—Auto-tag Images of the Gala
 
-Catagorical Image recognition using deep learning models:
+Categorical Image recognition using deep learning models:
 
 CNN Model with Regularization
 CNN Model with Image Augmentation
